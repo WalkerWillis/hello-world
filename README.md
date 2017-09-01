@@ -1,2 +1,2 @@
-# hello-wrold
+# hello-world
 Just some great information 
